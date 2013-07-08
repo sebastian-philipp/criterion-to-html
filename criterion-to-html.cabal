@@ -44,9 +44,9 @@ Executable criterion-to-html
   Build-depends:
     aeson        >= 0.3 && < 0.7,
     base         >= 4   && < 5,
-    blaze-html   >= 0.5 && < 0.6,
+    blaze-html   >= 0.5 && < 0.7,
     blaze-markup >= 0.5 && < 0.6,
-    bytestring   >= 0.9 && < 0.10,
+    bytestring   >= 0.9 && < 0.11,
     containers   >= 0.3 && < 0.6,
     filepath     >= 1.1 && < 1.4
 
